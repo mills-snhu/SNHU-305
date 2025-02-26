@@ -12,6 +12,8 @@ Why is it important to code securely? What value does software security add to a
 
 Which part of the vulnerability assessment was challenging or helpful to you?
 
+I found that identifying false positive vulnerabilities difficult and somewhat confusing.
+
 How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
 
 How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
