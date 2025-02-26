@@ -2,6 +2,7 @@
 Software Security
 
 Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
+
 The client, Artemis Financial, is a consulting company that develops individualized financial plans for customers which include savings, retirement, investments, and insurance.
 Artemis Financial requested expertise on how to protect its client data and financial information with the most current and effective software security. Specifically Artemis Financial wanted to add a file verification to ensure secure communications and data verification when the web application transfers data.
 
@@ -18,3 +19,5 @@ How did you make certain the code and software application were functional and s
 What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 
 Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+
+I would show my Project Two code with the SHA-cipher, exemption handling, Certificate Authority integration, and use of Spring.
