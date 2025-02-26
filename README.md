@@ -2,6 +2,8 @@
 Software Security
 
 Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
+The client, Artemis Financial, is a consulting company that develops individualized financial plans for customers which include savings, retirement, investments, and insurance.
+Artemis Financial requested expertise on how to protect its client data and financial information with the most current and effective software security. Specifically Artemis Financial wanted to add a file verification to ensure secure communications and data verification when the web application transfers data.
 
 What did you do well when you found your client’s software security vulnerabilities? 
 
